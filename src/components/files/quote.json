@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_files_quotes",
+  "info": {
+    "displayName": "Quote",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_files_rich_texts",
+  "info": {
+    "displayName": "Rich Text",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "blocks"
+    }
+  }
+}

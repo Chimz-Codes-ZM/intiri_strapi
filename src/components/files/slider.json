@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_files_sliders",
+  "info": {
+    "displayName": "Slider",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "files": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
