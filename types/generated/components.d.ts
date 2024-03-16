@@ -28,9 +28,10 @@ export interface FilesRichText extends Schema.Component {
   info: {
     displayName: 'Rich Text';
     icon: 'cube';
+    description: '';
   };
   attributes: {
-    body: Attribute.Blocks;
+    body: Attribute.RichText;
   };
 }
 

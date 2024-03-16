@@ -2,12 +2,13 @@
   "collectionName": "components_files_rich_texts",
   "info": {
     "displayName": "Rich Text",
-    "icon": "cube"
+    "icon": "cube",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "body": {
-      "type": "blocks"
+      "type": "richtext"
     }
   }
 }
